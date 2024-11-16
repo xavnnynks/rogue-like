@@ -1,0 +1,7 @@
+C:\Users\Семейный\source\repos\rogue-like\rogue-like\bin\Debug\rogue-like.exe.config
+C:\Users\Семейный\source\repos\rogue-like\rogue-like\bin\Debug\rogue-like.exe
+C:\Users\Семейный\source\repos\rogue-like\rogue-like\bin\Debug\rogue-like.pdb
+C:\Users\Семейный\source\repos\rogue-like\rogue-like\obj\Debug\rogue-like.csproj.AssemblyReference.cache
+C:\Users\Семейный\source\repos\rogue-like\rogue-like\obj\Debug\rogue-like.csproj.CoreCompileInputs.cache
+C:\Users\Семейный\source\repos\rogue-like\rogue-like\obj\Debug\rogue-like.exe
+C:\Users\Семейный\source\repos\rogue-like\rogue-like\obj\Debug\rogue-like.pdb
